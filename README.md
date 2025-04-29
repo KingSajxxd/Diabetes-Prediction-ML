@@ -21,7 +21,7 @@ pip install numpy pandas scikit-learn
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/Diabetes-Prediction-Classifier.git
+git clone https://github.com/KingSajxxd/Diabetes-Prediction-ML.git
 cd Diabetes-Prediction-Classifier
 ```
 Make sure diabetes.csv is present in the root directory.
